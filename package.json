@@ -1,0 +1,14 @@
+{
+  "name": "trayServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devtomas2003/trayServer.git",
+  "author": "devtomas2003 <54170951+devtomas2003@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^11.0.3"
+  }
+}
