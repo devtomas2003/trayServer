@@ -9,6 +9,7 @@
     "start": "electron ."
   },
   "dependencies": {
-    "electron": "^11.0.3"
+    "electron": "^11.0.3",
+    "node-static": "^0.7.11"
   }
 }
